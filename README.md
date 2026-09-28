@@ -14,4 +14,4 @@ A Python + PyQt6 voice-enabled project assistant inspired by JARVIS. 🎙️🤖
 𝗧𝗲𝗰𝗵: Python • PyQt6 • pyttsx3 • SpeechRecognition
 Speak → Listen → Recognize → Execute → Respond
 
-#Python #PyQt6 #VoiceAssistant #SpeechRecognition #TextToSpeech #Automation #PythonProjects #StudentDeveloper #LearningByBuilding #JARVIS #GUIApplication #ProjectShowcase
+
